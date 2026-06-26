@@ -6,7 +6,7 @@ A modern wellness application built with **Flutter** and **Dart** that provides 
 
 ## ✨ Features
 
-* 🧘 Explore Meditation Sessions
+* 🔍 Explore Meditation Sessions
 * 📂 Browse Meditation Categories
 * 🎵 Relaxing Music & Mindfulness Content
 * 🌙 Clean & Calming User Interface
